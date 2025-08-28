@@ -14,7 +14,6 @@
   * vizuálně by to mělo působit jako **časopis / inspirace**
 
     * velké fotky, destinace, itineráře → „prohlížím si“ místo, ne „chatuju“
-    * generování inspirativního vizuálu (fotky z Unsplash / Pexels), aby i MVP působilo atraktivně
 
   * chat = doplněk, ne hlavní UI
 
@@ -23,6 +22,7 @@
       * „proč tahle destinace?“
       * „ukaž mi něco s horama místo moře“
       * „nejsou tam zraloci?“
+  
     * AI funguje jako **interaktivní průvodce na pozadí**, ne jako povinný chatbot
 
 * **Hlavní use-case: multi-hop**
@@ -58,7 +58,7 @@
 
 * input: „chci roadtrip 7 dní, začátek v Mnichově, max 300 km denně, preference příroda, autem“
 * output: mapa, itinerář, pár možností
-* jednoduchý booking hotelu po cestě (affiliate linky)
+* jednoduchý booking hotelu po cestě
 * sdílení plánu jako odkaz
 * zatím bez cenových alertů, kolaborace, paměti uživatele
 * cíl: validace, jestli lidi chtějí AI generovaný itinerář
