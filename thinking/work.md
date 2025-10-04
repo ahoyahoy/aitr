@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💼 Petr – obchodní / strategická stránka
+## 🧑‍💼 Petr
 
 **Cíl:** najít směrx
 
